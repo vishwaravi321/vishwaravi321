@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishwa
-- 👀 I’m interested in Ethical hacking
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in.......
+- 🌱 I’m currently learning.....
 - 📫 How to reach me 
 
 <!---
