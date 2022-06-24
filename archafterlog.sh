@@ -10,8 +10,8 @@ echo "
 ::1		localhost
 127.0.1.1	klaus" >> /etc/hosts
 
+useradd groot
 
-echo "Please create passwd"
-
+passwd groot
 
 
